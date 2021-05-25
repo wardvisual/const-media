@@ -4,6 +4,9 @@
 
 ## Follow Edward:
 
-- Personal FB Account: [constWardtz](https://fb.com/wardvisual)
-- Facebook Page: [constWardtz](https://fb.com/constWardtz)
-- Facebook Group: [Const Programming Community](https://www.facebook.com/groups/constprogrammingcommunity)
+- Personal FB Account: [Edward](https://fb.com/wardvisual)
+- Personal IG Account: [Edward](https://instagram.com/wardvisual)
+
+- constWardtz Facebook Page: [constWardtz](https://fb.com/constWardtz)
+- constWardtz IG: [constWardtz](https://constWardtz.com/constWardtz)
+- constWardtz Facebook Group: [Const Programming Community](https://www.facebook.com/groups/constprogrammingcommunity)
